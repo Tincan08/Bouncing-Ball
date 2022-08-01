@@ -1,2 +1,2 @@
-# Python-Game
+# Bouncing Ball
 Practice Python Game
